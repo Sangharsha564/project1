@@ -1,3 +1,7 @@
 #demo
 print"hello world"
-hello
+#change
+#added text
+import random
+num=random.randint(1,10)
+print("number is "+ str(num))
